@@ -1,0 +1,254 @@
+
+/*@import url('https://fonts.googleapis.com/css2?family=Corinthia&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body{
+	
+	background-color:whitesmoke;
+	font-family: 'Lato', sans-serif;
+}
+
+.canvas{
+
+	margin: 0;
+	width: 1350px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: crimson; 
+	
+}
+
+.topNavBarHumburgerIcon {
+
+	max-width: 100%;
+	margin: 0;
+	background-color: whitesmoke;
+	height: 500px;
+	color: white;
+	border-radius: 10px;
+	
+}
+.topNavBar {
+
+	overflow: hidden;
+	background-color: #333;
+	position: relative;
+}
+.topNavBar #myLinks {
+
+	display: none;
+}
+.topNavBar a {
+
+	color: whitesmoke;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	display: block;
+}
+.topNavBar a.icon {
+	
+	background: black;
+	display: block;
+	position: absolute;
+	left:0;
+	top: 0;
+}
+  
+.topNavBar a:hover {
+
+	margin: 0;
+	background-color: #ddd;
+	color: black;
+}
+  
+.welcomeLogoDivBar {
+
+	position:sticky;
+	position: -webkit-sticky;
+	background-color: black;
+	text-align: right;
+	color: white;
+}
+.topMarginPaddingLeft{
+
+	height: 200px; 
+	width: auto;
+
+}
+.topMarginPaddingCenterWithImage{
+
+	object-fit:contain;
+	height: 200px; 
+	width: 1350px;
+	
+}
+.topMarginPaddingRight{
+
+	height: 200px; 
+	width: auto;
+}
+
+.sectionOneIntroduction{
+
+	max-width:600px;
+	margin-left: 150px;
+	background-color: pink;
+	font-family: 'Playfair Display', serif;
+	color: black;
+}
+
+.imagePhoto{
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.sectionTwoPersonalInformation{
+
+	max-width:1350px;
+	display: block;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	font-family: 'Playfair Display', serif;
+	color: black;
+}
+
+.sectionThreeInterestInTechnolgy{
+
+	max-width:1350px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: whitesmoke;
+	font-family: 'Playfair Display', serif;
+	color: black;
+}
+.sectionFourIdealJob{
+
+	max-width:1350px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	font-family: 'Playfair Display', serif;
+	color: black;
+}
+.sectionFivePersonalProfile{
+
+	max-width:1350px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	font-family: 'Playfair Display', serif;
+	color: black;
+}
+
+.sectionSixProjectIdeas{
+
+	max-width:1350px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: pink;
+	font-family: 'Playfair Display', serif;
+	color: black;
+}
+.sectionSevenLinks{
+
+	max-width:1350px;
+	display: block;
+	background-color: palevioletred;
+	font-family: 'Playfair Display', serif;
+	color: white;
+}
+
+.footerBasics{
+	background-color: silver;
+	color: black;
+}
+/*.textLinkDivTopLeft{
+	height: 200px; 
+	width: 33%
+
+}
+.textLinkDivTopCenter{
+	height: 200px; 
+	width: 33%;
+	color: darkslateblue;
+}
+.textLinkDivTopRight{
+	height: 200px; 
+	width: 33%
+}*/
+
+/*.tableNavBarDiv{
+
+	text-decoration-line: none;
+	width: 1350px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+	list-style-type: none;
+	background-color: gray;
+}*/
+
+/*.table {
+	text-align: center; 
+	width: 100%;
+	border: 1px;
+}*/
+/*ul {
+	font-family: 'Corinthia', cursive;
+	font-size: 20px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: grey;
+}
+ul{
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+li{
+	float:left;
+}
+
+li a {
+
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+ }
+
+li a:hover {
+	background-color: pink;*/
+
+/*.firstDivImageGrid{
+	display:-moz-inline-grid;
+	height: 750px; 
+	width: 1350px;
+}*/
+/*
+.firstDivImage{
+	display: block;
+	height: 500px; 
+	width: 1350px;
+}
+
+.secondDivTextGrid{
+	height: 30px; 
+	width: 1350px;
+	text-align: center;
+	background-color: silver;
+	color:darkslategrey;
+}*/
